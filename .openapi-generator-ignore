@@ -1,6 +1,0 @@
-.gitignore
-.php-cs-fixer.dist.php
-.travis.yml
-git_push.sh
-phpunit.xml.dist
-test
